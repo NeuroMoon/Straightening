@@ -18,6 +18,7 @@ function createTrialMatrix(initials, varargin)
 
 %% Initiate S, a structure that summarizes all variables and will be filled 
 % with registered responses
+% ////
 S                   = struct;
 
 %% Hardcoded stuff
